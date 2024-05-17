@@ -1,0 +1,7 @@
+
+
+const htmlSample =`
+<body> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poetsen+One&display=swap" rel="stylesheet"> <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> <div class="iconDiv" style="background-color: black;display: flex;justify-content: center;"> <img class="logo" src="https://res.cloudinary.com/dr0y2usoy/image/upload/v1715972642/Elsocket_6_1_nk5aoy.png"> </div> <div class="contentDiv" style="padding: 10px;text-align: center;"> <h1 class="title">The TOKEN is here!</h1> <h3 class="message">Hi,</h3> <h4 class="message">Below is the TOKEN for your account. Please don't share this with anyone</h4> </div> <div class="tokenDiv" style="padding: 10px;text-align: center;"> <h1 style='font-family: "Poetsen One", sans-serif;'>ADMIN</h1> --data-- </div> <div style="background-color: black;color: white;height: 100%;"> <p class="message footer" style="text-align: center;" > Important : Please do not reply to this email.<br> incase of fraud, visit <a href="www.elsocket.top/report">www.elsocket.top/report</a> </p> </div> </body>
+`
+
+module.exports = htmlSample;
