@@ -1,0 +1,16 @@
+.verify{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.button{
+    font-size: 14px;
+}
+
+.head{
+    text-align: center;
+    font-weight: 800;
+    font-size: 35px;
+    font-family: sans-serif;
+}
