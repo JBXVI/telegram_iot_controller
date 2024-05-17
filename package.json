@@ -1,0 +1,22 @@
+{
+  "name": "elsocket",
+  "version": "1.0.0",
+  "description": "this lets you connect and controll your iot projects (esp8266,raspberry pi..etc) from anywhere using telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jbxv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.3.5",
+    "node-telegram-bot-api": "^0.65.1",
+    "nodemailer": "^6.9.13",
+    "ws": "^8.17.0"
+  }
+}
